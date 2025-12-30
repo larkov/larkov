@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/larkov/desktopicons/commit/af22c88fe766f937687cf8e9f0b092fcc9f90f82\"><strong>a</strong>f22c88fe766f937687cf8e9f0b092fcc9f90f82</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/larkov/glyph-learner/commit/ab5a4d82509edeb413d686eec959c7c623eed9f6\"><strong>ab</strong>5a4d82509edeb413d686eec959c7c623eed9f6</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/larkov/larkov.github.io/commit/55e5dead1faeb2758282c6328998cc200121845c\">55e5<strong>dead</strong>1faeb2758282c6328998cc200121845c</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"added\".",
+    "body": "My favorite commit message words are:\n\n1. added (used 36 times)\n2. initial (used 20 times)\n3. commit (used 19 times)\n4. fixed (used 9 times)\n5. create (used 9 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ChalmersLibrary/Chillin/issues/3\">#3</a>: Mail item in log collapses when you try copy from it.\n- <a href=\"https://github.com/felixhageloh/uebersicht-widgets/issues/378\">#378</a>: New widget: Spot The Station\n- <a href=\"https://github.com/ytdl-org/youtube-dl/issues/22297\">#22297</a>: SVT extractor not working\n- <a href=\"https://github.com/thunderclient/thunder-client-support/issues/42\">#42</a>: Set env variable from returned header.\n- <a href=\"https://github.com/felixhageloh/uebersicht-widgets/issues/543\">#543</a>: New Widget: PostNord",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/apparition47/MailTrackerBlocker/issues/42\">#42</a>\n- <a href=\"https://github.com/thunderclient/thunder-client-support/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/larkov/m1_benchmark/commit/049a3dd3c2d269bca96f5f9f874946d002e5856c\">049a3dd</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/larkov/logo-dev/commit/48c3ba52262f46700000268a4e68395e79d54f18\">48c3ba5</a>\n- <a href=\"https://github.com/larkov/logo-dev/commit/8acf92c22fe66111e96719b5c0c6c93fc85b4b7a\">8acf92c</a>\n- <a href=\"https://github.com/larkov/ToggleDesktopIcons-AlfredWorkflow/commit/f725c69c3c1d0a8d2e220b6a0680e203f7f15a10\">f725c69</a>\n- <a href=\"https://github.com/larkov/ToggleDesktopIcons-AlfredWorkflow/commit/815d67f9e3a752e0bedbd534274f7e8fd2938edc\">815d67f</a>\n- <a href=\"https://github.com/larkov/ToggleDesktopIcons-AlfredWorkflow/commit/1c94247ab08938e27215b9c83a88c0e14e4788f1\">1c94247</a>\n- <a href=\"https://github.com/larkov/alfred-workflows/commit/7db049d8dba81930f164e2a66b99e6d1431d24ab\">7db049d</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
